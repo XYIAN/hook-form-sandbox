@@ -2,7 +2,7 @@
 
 Welcome to my react-hook-form sandbox. This repository is made as a testing and example enviornment, specifically to solve **stackoverflow** questions.
 
-## Contributors ✨
+## Created by ✨
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -16,3 +16,5 @@ Welcome to my react-hook-form sandbox. This repository is made as a testing and 
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+**Disclosure:** While most of this code is completely my own, they are often reiterations, improvements or refactors of stackoverflow questions. This being said I do not claim any rights or special privilages over the code in this specific repository. **EDUCATIONAL PURPOSES ONLY**
